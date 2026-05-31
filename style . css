@@ -1,0 +1,55 @@
+css
+
+body{
+    font-family: Arial;
+    margin:0:
+    background:#f2f2f2;
+}
+
+header{
+    background:inear-gradient(orange,
+white, green);
+    text-align:center;
+    padding:20px;
+}
+
+nav{
+    backgound:#333;
+    padding:10px;
+    text-align:center;
+}
+
+nav a{
+    color:white;
+    margin:15px;
+    text-decoration:none;
+    font-size:18px;
+}
+
+nav a:hover{
+    color:yellow;
+}
+section{
+    text-align:center;
+    padding:20px;
+    border:3px solid orange;
+    margin:20px;
+    border-radius:15px;
+    background:white;
+}
+
+img{
+    border-radius:10px;
+    margin-top:20px;
+}
+
+ul{
+    list-style-position: inside;
+}
+
+footer{
+    background:black;
+    color:white;
+    text-align:center;
+    padding:10px;
+}
