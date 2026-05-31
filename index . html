@@ -1,0 +1,70 @@
+ <!DOCTYPE html>
+ <html>
+
+ <head>
+    <title>Amazing India</title>
+    <link rel="stylesheet"
+href="style.css">
+</head>
+
+<body>
+
+<header>
+    <h1>Welcome to Amazing India</h1>
+    <p>Culture, Food and Famous Places</p>
+</header>
+
+<nav>
+    <a href="#">Home</a>
+    <a href="#">Places</a>
+    <a href="#">Food</a>
+    <a href="#">Contact</a>
+</nav>
+
+<section>
+     <h2>About India</h2>
+
+     <p>
+         India is a beautiful country
+famous for culture,
+         festivals, monuments, traditions and
+traditions.
+    </p>
+
+    <img
+src="https://upload.wikimedia.org/wikipedi
+a/commons/d/da/Taj-Mahal.jpg" width="350">
+
+    <h3>Famous Places</h3>
+    <ul>
+        <li>Taj Mahal</li>
+        <li>Red Fort</li>
+        <li>India Gate</li>
+        <li>Qutub Minar</li>
+    </ul>
+
+    <h3>Popular Indian Foods</h3>
+    <ul>
+        <li>Biryani</li>
+        <li>Dosa</li>
+        <li>Butter Chicken</li>
+        <li>Gulab Jamun</li>
+    </ul>
+
+    <h3>Conclusion</h3>
+    <p>
+        India is a diverse and beautiful
+country known for its rich
+        culture, heritage, monuments,
+festivals and traditions.
+        We should be proud of our nation
+and work together its progress.
+    </p>
+</section>
+
+<footer>
+    <p>Created by Preshti</p>
+</footer>
+
+</body>
+</html>
